@@ -1,0 +1,44 @@
+   Benchling Case Study 
+
+  
+
+Benchling is a software company. Benchling was founded in 2012 at MIT, founders saw a clear need for modern technology and tools to enable their scientific research. At the time, there was not much software available that could support biological research. As a result, scientists had to resort to recording their output in spreadsheets and paper lab notebooks.  
+
+ 
+
+ 
+
+Supporting Scientific Innovation 
+
+Benchling has consistently been recognized for its role in expediting scientific research and assisting organizations in swiftly moving novel therapies into clinical stages. A review from Gilead Sciences encapsulates this sentiment by valuing Benchling for being "built for biology,” which enables their scientists to "uncover new insights". The transformative impact of Benchling on the R&D process is a recurring acknowledgment among the user testimonials. 
+
+  
+
+Time maintaining and provisioning servers 
+
+By using AWS, we can give engineers more time. Instead of worrying about the solution architecture and managing servers, they are freed up to focus on new projects and initiatives that can help grow the company. 
+
+ 
+
+  
+
+AWS Cloud to support CRISPR searches 
+
+Do not have to provide computer resources, and are not paying for instances are not using, are saving thousands of dollars every month by relying on AWS Lambda and the rest of the AWS services use. As a startup, that is a big benefit. 
+
+ 
+
+ 
+
+Quickly grow its solution 
+
+ With the built-in scalability get using AWS, can easily support those requests. And as we add more genomes, we do not have to worry about relying on disks to store each instance. The AWS Lambda approach completely solved dynamic scaling issue. 
+
+ 
+
+  
+
+Get their results faster  
+
+  By using AWS Lambda, CRISPR search times cut by 90 percent and scaled to hundreds of genomes, by making this analysis faster, scientists using platform can spend more time focusing on science.  
+
